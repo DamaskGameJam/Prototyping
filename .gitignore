@@ -10,6 +10,7 @@
 *.bak 
 *.odt#
 
+tl/
 game/saves/
 game/tmp/ 
 game/cache/ 
